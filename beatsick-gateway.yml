@@ -1,0 +1,9 @@
+app:
+  doctors:
+    - 杨宇飞
+    - 朴炳奎
+  hospitals:
+    - 西苑医院
+    - 广安门医院
+  drugs:
+    - 参考药方
